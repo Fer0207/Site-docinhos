@@ -43,6 +43,7 @@ h1{
 }
 
 
+
 .menu {
   list-style-type: none;
   padding: 0;
@@ -74,17 +75,17 @@ h1{
   color: rgb(255, 219, 58);
 }
 
-.imagens-bolo{
+.imagens-docinho{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: stretch;
   margin: 10px;
-  margin-bottom: 25px;
-  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
-.bolo{
-  width: 20%;
+.docinho{
+  width: 11%;
   border-radius: 30px;
   box-shadow: 8px 11px 20px rgb(124 124 120);
 }
